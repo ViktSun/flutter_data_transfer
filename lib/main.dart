@@ -54,7 +54,6 @@ class _MyHomePageState extends State<MyHomePage> {
     "全局对象的方式",
     "Singleton方式",
     "Singleton结合Stream",
-    "回调方式"
   ];
 
   @override
